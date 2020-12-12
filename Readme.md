@@ -50,3 +50,4 @@
 
 - [Filtros git log](https://devhints.io/git-log)
 - [Fundamentos do Git](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio)
+- [Rebase e merge](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
