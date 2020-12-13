@@ -43,6 +43,8 @@
 - git merge <branch> -> juntar a branch de atualizações na master (:x para sair do terminal);
 
 - git checkout -- index.html -> vai desfazer a modificação, (sem add ou commitar o arquivo);
+- git reset HEAD index.html -> desfazendo modificação adicionada;
+- git revert <nº do commit> -> desfazendo commit ja feito;
 
 
 
