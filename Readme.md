@@ -46,7 +46,11 @@
 - git reset HEAD index.html -> desfazendo modificação adicionada;
 - git revert <nº do commit> -> desfazendo commit ja feito;
 
-
+- git stash -> criando um armazenamento temporario, onde guarda informações que quero alterar depois;
+- git stash list -> mostrar a lista de stash criadas;
+- git stash drop -> apagar o stash criado;
+- git stash apply 0 -> aplicar o stash criando no arquivo;
+- git stash pop -> tirar e remove a stash e aplicar no arquivo;
 
 *HEAD:* Estado atual do nosso código, ou seja, onde o Git nos colocou
 *Working tree:* Local onde os arquivos realmente estão sendo armazenados e editados
