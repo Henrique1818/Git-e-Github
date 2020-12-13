@@ -58,7 +58,8 @@
 
 - git log -n 2 -> mostrar os 2 ultimos commits;
 
-- git tag -a v0.1.0 -m "Lançando a primeira versão (BETA) da aplicação de cursos" - criando uma tag no git;
+- git tag -> mostar todas as tag criadas;
+- git tag -a v0.1.0 -m "Lançando a primeira versão (BETA) da aplicação de cursos" -> criando uma tag no git;
 
 
 *HEAD:* Estado atual do nosso código, ou seja, onde o Git nos colocou
