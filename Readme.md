@@ -53,6 +53,8 @@
 - git stash pop -> tirar e remove a stash e aplicar no arquivo;
 
 - git checkout af0caaa -> voltando para o commit ja feito;
+- git diff -> mostrar a diferença entre os commits;
+- git diff <nº do commit.. > -> mostrar a diferença entre os commits (.. = ate);
 
 
 *HEAD:* Estado atual do nosso código, ou seja, onde o Git nos colocou
