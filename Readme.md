@@ -42,6 +42,8 @@
 
 - git merge <branch> -> juntar a branch de atualizações na master (:x para sair do terminal);
 
+- git checkout -- index.html -> vai desfazer a modificação, (sem add ou commitar o arquivo);
+
 
 
 *HEAD:* Estado atual do nosso código, ou seja, onde o Git nos colocou
