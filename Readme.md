@@ -33,11 +33,13 @@
 - git remote rename <nome> -> renomea o repositorio;
 - git remote -v -> visualizar quais repositorios remotos existem;
 - git clone <url> -> clona o um repositorio remoto;
+
 - git push -u <nome> <branch> -> envia(empurrar) os commits para o repositorio;
 - git push -> envia(empurrar) os commits para o repositorio;
+- git push origin v0.1.0 -> enviando tag para o repositorio;
+
 - git pull <nome> <branch> -> puxar todos os dados do repositorio remoto da branch;
 - git pull -> puxar todos os dados do repositorio;
-
 - git pull origin main --rebase -> puxar as atualizações feitas na branch remota; 
 
 - git merge <branch> -> juntar a branch de atualizações na master (:x para sair do terminal);
@@ -53,6 +55,7 @@
 - git stash pop -> tirar e remove a stash e aplicar no arquivo;
 
 - git checkout af0caaa -> voltando para o commit ja feito;
+
 - git diff -> mostrar a diferença entre os commits;
 - git diff <nº do commit.. > -> mostrar a diferença entre os commits (.. = ate);
 
