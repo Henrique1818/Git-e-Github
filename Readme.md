@@ -7,7 +7,7 @@
 - git config --global user.name "nomeNome" -> adicionando um usuário global para o git;
 - git config user.name -> Visualizar qual usuário está configurado;
 
-- git config --global user.name "nome@dominio.com";
+- git config --global user.email "nome@dominio.com";
 
 - git status -> Visualizar o estado dos arquivos no repositório;
 
